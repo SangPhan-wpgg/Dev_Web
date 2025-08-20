@@ -7,37 +7,6 @@ THÔNG TIN ĐĂNG NHẬP:
 - Username: noname123
 - Password: noname@nameno
 
-HelloWorld/
-├── .settings/
-├── .classpath
-├── .project
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── vn/
-│   │   │       ├── iotstar/
-│   │   │       │   ├── controllers/
-│   │   │       │   │   ├── HelloControllers.java
-│   │   │       │   │   ├── HelloSerlvet.java
-│   │   │       │   │   ├── LoginSerlvet.java
-│   │   │       │   │   ├── LoginSerlvetSession.java
-│   │   │       │   │   ├── Logout.java
-│   │   │       │   │   └── Profile.java
-│   │   │       │   └── models/
-│   │   │       │       └── (các file model của bạn)
-│   │   └── webapp/
-│   │       ├── views/
-│   │       │   ├── Login.html
-│   │       │   └── LoginSession.html
-│   │       └── WEB-INF/
-│   │           └── web.xml 
-│   └── test/
-│       └── java/
-│           └── (các file test)
-├── target/
-└── pom.xml
-
-
 GIỚI THIỆU CHỨC NĂNG:
 1. Chức năng đăng nhập bằng Cookies:
 Chức năng này sử dụng Cookie để duy trì trạng thái đăng nhập.
