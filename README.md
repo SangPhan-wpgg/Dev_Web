@@ -37,7 +37,6 @@ HelloWorld/
 ├── target/
 └── pom.xml
 
-
 GIỚI THIỆU CHỨC NĂNG:
 1. Chức năng đăng nhập bằng Cookies:
 Chức năng này sử dụng Cookie để duy trì trạng thái đăng nhập.
