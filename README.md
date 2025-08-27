@@ -1,4 +1,4 @@
-﻿BÀI TẬP 1: LOGIN (COOKIES VÀ SESSION)
+﻿BÀI TẬP 2: LOGIN (COOKIES VÀ SESSION)
 MỤC TIÊU: 
 Thực hiện việc demo cơ bản đối với Cookies và Session. Trong đó: đăng nhập vào bằng username và password được đặt cố định. 
 	+ Phần Cookies: Login
@@ -7,36 +7,8 @@ THÔNG TIN ĐĂNG NHẬP:
 - Username: noname123
 - Password: noname@nameno
 
-HelloWorld/
-├── .settings/
-├── .classpath
-├── .project
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── vn/
-│   │   │       ├── iotstar/
-│   │   │       │   ├── controllers/
-│   │   │       │   │   ├── HelloControllers.java
-│   │   │       │   │   ├── HelloSerlvet.java
-│   │   │       │   │   ├── LoginSerlvet.java
-│   │   │       │   │   ├── LoginSerlvetSession.java
-│   │   │       │   │   ├── Logout.java
-│   │   │       │   │   └── Profile.java
-│   │   │       │   └── models/
-│   │   │       │       └── (các file model của bạn)
-│   │   └── webapp/
-│   │       ├── views/
-│   │       │   ├── Login.html
-│   │       │   └── LoginSession.html
-│   │       └── WEB-INF/
-│   │           └── web.xml 
-│   └── test/
-│       └── java/
-│           └── (các file test)
-├── target/
-└── pom.xml
 
+>>>>>>> 4019bc2efd609033cc3d7d6d7d89816760637
 GIỚI THIỆU CHỨC NĂNG:
 1. Chức năng đăng nhập bằng Cookies:
 Chức năng này sử dụng Cookie để duy trì trạng thái đăng nhập.
